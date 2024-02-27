@@ -1,5 +1,5 @@
 # SysBrick
-A batch file that deletes the boot manager entry from the Boot Configuration Data (BCD) store, fucking up the whole system.
+A batch file that deletes the boot manager entry from the Boot Configuration Data (BCD) store, making the system unbootable.
 
 <h3>Usage:</h3>
 <p>Download 'SysBrick.bat'.</p>
